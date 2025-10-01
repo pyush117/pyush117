@@ -15,28 +15,36 @@
 ### 🛠️ Tech Stack  
 <p align="left">
   <!-- Languages -->
+  <b>Languages:</b><br>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS" height="40"/>
+  <br><br>
 
   <!-- Frameworks -->
+  <b>Frameworks / Libraries:</b><br>
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" title="React" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/>
+  <br><br>
 
-  <!-- Backend/DB -->
+  <!-- Backend / DB -->
+  <b>Backend / Database:</b><br>
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/>
+  <br><br>
 
   <!-- Tools -->
+  <b>Tools:</b><br>
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/>
 </p>
+
 
 ---
 
