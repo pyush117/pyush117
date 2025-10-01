@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack  
 <p align="left">
   <!-- Languages -->
-  <b>Languages:</b><br>
+  <b>Languages & Markup:</b><br>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
