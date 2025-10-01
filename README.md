@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">🚀 Frontend & Mobile Developer  | c++ | Flutter | Dart | Firebase | React |</h3>
+<h3 align="center">🚀 Frontend & Mobile Developer  | C++ | Flutter | Dart | Firebase | React |</h3>
 
 ---
 
@@ -16,33 +16,33 @@
 <p align="left">
   <!-- Languages / Markup -->
   <b>💻 Languages & Markup:</b><br>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="40"/>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" title="Dart" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" title="HTML" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS" height="40"/></a>
   <br><br>
 
   <!-- Frameworks -->
   <b>⚛️ Frameworks / Libraries:</b><br>
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" title="React" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/></a>
   <br><br>
 
   <!-- Backend / DB -->
   <b>🗄️ Backend / Database:</b><br>
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/></a>
   <br><br>
 
   <!-- Tools -->
   <b>🛠️ Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/></a>
 </p>
 
 ---
