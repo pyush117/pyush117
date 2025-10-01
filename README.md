@@ -5,7 +5,7 @@
 
 ### 🌟 About Me  
 - 💻 I love building **beautiful, responsive, and scalable apps**  
-- 🚀 Experienced in **Flutter, Firebase, REST APIs**  
+- 🚀 Experienced in **Flutter, React, Firebase, REST APIs**  
 - 🌱 Currently learning **advanced frontend frameworks**  
 - 🎯 Goal: Craft seamless user experiences with clean UI/UX  
 - 📫 Reach me at: **[piyushkumar166@gmail.com](mailto:piyushkumar166@gmail.com)**  
