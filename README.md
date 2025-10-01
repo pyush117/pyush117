@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">🚀 Frontend & Mobile Developer | Flutter | Dart | Firebase | React |</h3>
+<h3 align="center">🚀 Frontend & Mobile Developer  C++ | Flutter | Dart | Firebase | React |</h3>
 
 ---
 
@@ -8,45 +8,48 @@
 - 🚀 Experienced in **Flutter, Firebase, REST APIs**  
 - 🌱 Currently learning **advanced frontend frameworks**  
 - 🎯 Goal: Craft seamless user experiences with clean UI/UX  
-- 📫 Reach me at: **[piyush.kumar@example.com](mailto:piyush.kumar@example.com)**  
+- 📫 Reach me at: **[piyushkumar166@gmail.com](mailto:piyushkumar166@gmail.com)**  
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=dart,js,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,dart,js,html,css" height="40"/>
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=flutter,react,tailwind" height="40"/>
   <!-- Backend/DB -->
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" height="40"/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" height="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pyush117&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyush117&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🔗 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/piyush-kumar-552982207/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:piyush.kumar@example.com">
+  <a href="mailto:piyushkumar166@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  <a href="https://www.instagram.com/pyush_kumar_186" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/piyush_0017/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
   </a>
 </p>
 
 ---
 
-⭐️ From [Piyush Kumar](https://github.com/yourusername)
+⭐️ From [Piyush Kumar](https://github.com/pyush117)
