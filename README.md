@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">🚀 Frontend & Mobile Developer  C++ | Flutter | Dart | Firebase | React |</h3>
+<h3 align="center">🚀 Frontend & Mobile Developer c++ | Flutter | Dart | Firebase | React |</h3>
 
 ---
 
 ### 🌟 About Me  
 - 💻 I love building **beautiful, responsive, and scalable apps**  
-- 🚀 Experienced in **Flutter, React, Firebase, REST APIs**  
+- 🚀 Experienced in **Flutter, Firebase, REST APIs**  
 - 🌱 Currently learning **advanced frontend frameworks**  
 - 🎯 Goal: Craft seamless user experiences with clean UI/UX  
-- 📫 Reach me at: **[piyushkumar166@gmail.com](mailto:piyushkumar166@gmail.com)**  
+- 📫 Reach me at: **[pyushkumar166@gmail.com](mailto:pyushkumar166@gmail.com)**  
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <!-- Languages -->
-  <b>Languages & Markup:</b><br>
+  <!-- Languages / Markup -->
+  <b>💻 Languages & Markup:</b><br>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
@@ -24,27 +24,26 @@
   <br><br>
 
   <!-- Frameworks -->
-  <b>Frameworks / Libraries:</b><br>
+  <b>⚛️ Frameworks / Libraries:</b><br>
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" title="React" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40"/>
   <br><br>
 
   <!-- Backend / DB -->
-  <b>Backend / Database:</b><br>
+  <b>🗄️ Backend / Database:</b><br>
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/>
   <br><br>
 
   <!-- Tools -->
-  <b>Tools:</b><br>
+  <b>🛠️ Tools:</b><br>
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/>
 </p>
-
 
 ---
 
@@ -59,10 +58,10 @@
 ### 🔗 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-kumar-552982207/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="40"/>
   </a>
-  <a href="mailto:piyushkumar166@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <a href="mailto:pyushkumar166@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Email" height="40"/>
   </a>
   <a href="https://www.instagram.com/pyush_kumar_186" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
